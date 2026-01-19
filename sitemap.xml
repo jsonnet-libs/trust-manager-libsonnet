@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/nogroup/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/nogroup/v1alpha2/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/nogroup/v1alpha2/clusterBundle/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/trust/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/trust/v1alpha1/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/trust-manager-libsonnet/0.20/trust/v1alpha1/bundle/</loc>
+         <lastmod>2026-01-19</lastmod>
+    </url>
+</urlset>
